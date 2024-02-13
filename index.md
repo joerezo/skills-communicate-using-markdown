@@ -1,3 +1,8 @@
+- [x] created a code block
+- [x] added a picture
+- [ ] pass Github Foundational Certification
+- [x] eat dinner
+
 ```C#
 int num=6;
 ```
