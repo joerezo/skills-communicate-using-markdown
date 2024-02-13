@@ -1,3 +1,7 @@
+```C#
+int num=6;
+```
+
 # Hi There, I am learning
 #### MarkDown!! 
 ## Meow!
